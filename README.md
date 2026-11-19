@@ -59,7 +59,5 @@ Because the competition is evaluated on **Balanced Accuracy**, standard out-of-t
 ## 📂 Repository Structure
 
 ```text
-├── notebooks/
-│   └── s6e7_complete_pipeline.ipynb   # Full end-to-end training & inference notebook
-├── requirements.txt                   # Python dependencies
-└── README.md                          # Project documentation
+|── Advanced-Health-Risk-Optuna-K-Fold-Ensemble.ipynb   # Full end-to-end training & inference notebook
+└── README.md                                           # Project documentation
